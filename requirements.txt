@@ -1,0 +1,7 @@
+gedit==0.0.2
+gunicorn==19.4.5
+jenkins==1.0.2
+npm==0.1.1
+optional-django==0.1.0
+pycairo==1.18.1
+virtualenv==16.7.5
