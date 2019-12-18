@@ -1,5 +1,5 @@
 gedit==0.0.2
-gunicorn==19.5.0
+gunicorn==20.0.4
 jenkins==1.0.2
 npm==0.1.1
 optional-django==0.1.0
